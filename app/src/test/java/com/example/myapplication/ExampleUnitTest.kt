@@ -48,4 +48,7 @@ class ExampleUnitTest {
     fun addition_isCorrect510() {
         assertEquals(4, 2 + 2)
     }
+    fun addition_isCorrect5220() {
+        assertEquals(4, 2 + 2)
+    }
 }
