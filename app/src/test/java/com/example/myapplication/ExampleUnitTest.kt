@@ -33,5 +33,19 @@ class ExampleUnitTest {
     fun addition_isCorrect5() {
         assertEquals(4, 2 + 2)
     }
-
+    fun addition_isCorrect6() {
+        assertEquals(4, 2 + 2)
+    }
+    fun addition_isCorrect7() {
+        assertEquals(4, 2 + 2)
+    }
+    fun addition_isCorrect8() {
+        assertEquals(4, 2 + 2)
+    }
+    fun addition_isCorrect9() {
+        assertEquals(4, 2 + 2)
+    }
+    fun addition_isCorrect510() {
+        assertEquals(4, 2 + 2)
+    }
 }
